@@ -1,0 +1,31 @@
+
+*{
+    font-family:monospace;
+    margin: 0;
+    padding: 0;
+}
+
+.site-name{
+    background-color: #38AAA4;
+    height: 50px;
+    margin-bottom: 50px;
+    padding: 10px;
+}
+
+.site-name a{
+    font-size: 1.3rem;
+    text-decoration: none;
+}
+
+.menu{
+    width: 30%;
+    margin: auto;
+    display: flex;
+    gap: 20px;
+    text-align: center;
+}
+
+.content{
+    width: 60%;
+    margin: auto;
+}
